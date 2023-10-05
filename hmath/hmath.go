@@ -1,8 +1,8 @@
 package hmath
 
-func sub(x, y int) int {
+func Sub(x, y int) int {
 	return x - y
 }
-func add(x, y int) int {
+func Add(x, y int) int {
 	return x + y
 }
